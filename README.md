@@ -7,7 +7,7 @@
 
 ## Highlight
 
-<font color=violet> Our Diffusion-NAT has received the Evaluation and Model Insight Award in EACL 2024!! </font>
+### :tada: :tada: :tada: Our Diffusion-NAT has received the Evaluation and Model Insight Award in EACL 2024!!
 
 ## Contributions
 1.we propose a new solution for integrating Pre-trained LM into Diffusion Model, to perform discrete diffusion for text-to-text generation. It requires only low-cost fine-tuning and can performs better than vanilla fine-tuning;
