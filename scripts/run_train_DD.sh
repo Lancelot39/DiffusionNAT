@@ -1,0 +1,1 @@
+python -m torch.distributed.launch --nproc_per_node=8 --master_port=12233 --use_env run_train.py --diff_steps 2000 --lr 0.00005 --learning_steps 160000 --save_interval 10000 --seed 102 --noise_schedule sqrt --hidden_dim 32 --bsz 64 --microbatch 64 --dataset DD --data_dir datasets/DD --vocab roberta --seq_len 64 --src_seq_len 384 --schedule_sampler lossaware --notes DD
