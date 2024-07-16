@@ -6,7 +6,8 @@
 </p>
 
 ## Highlight
-#### Our Diffusion-NAT has received the Evaluation and Model Insight Award in EACL 2024. Congratulations to All Authors!!
+
+<font color=violet> Our Diffusion-NAT has received the Evaluation and Model Insight Award in EACL 2024!! </font>
 
 ## Contributions
 1.we propose a new solution for integrating Pre-trained LM into Diffusion Model, to perform discrete diffusion for text-to-text generation. It requires only low-cost fine-tuning and can performs better than vanilla fine-tuning;
@@ -38,7 +39,7 @@ pip install -r requirements.txt
 ```
 
 #### Prepare Data
-To obtain the data, first download from the [Google-Drive]():
+To obtain the data, first download from the [Google-Drive](https://drive.google.com/file/d/10WDFyFBV7m657TcMkChuoSm_gUKSrqgV/view?usp=drive_link):
 ```bash
 tar -zxvf datasets.tar.gz
 ```
